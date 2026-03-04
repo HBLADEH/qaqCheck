@@ -1,5 +1,5 @@
 name: qaq-checkin
-
+# trigger update
 on:
   schedule:
     - cron: "10 0 * * *"
